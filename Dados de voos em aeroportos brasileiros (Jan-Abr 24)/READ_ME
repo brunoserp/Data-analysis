@@ -1,0 +1,9 @@
+Busquei a base de dados na ANAC de voos brasileiros de janeiro a abril de 2024. Nessa base tem tantos voos domésticos, quanto voos internacionais (que tinham origem ou destino no Brasil), com informações de cidade e hora de cada voo, entre outras.
+
+Dito isso, busquei algumas informações:
+
+Qual as principais origens/destinos dos voos? Quais as principais horas de decolagem/pouso?
+Dentre os voos internacionais (que saíram do Brasil), como foi a proporção de destino por continente? E por cidade?
+Quais as principais empresas áereas que operaram os voos? Houve empresa aérea fora as mais conhecidas que operaram voos?
+
+Um indicador interessante foi que voos internacionais tem maior taxa de cancelamento que voos domésticos. Em cima desse grupo, busquei se aconteciam mais em voos que partiriam do Brasil ou que destinariam no Brasil, bem como as principais cidades de origem/destino desses voos no exterior.
