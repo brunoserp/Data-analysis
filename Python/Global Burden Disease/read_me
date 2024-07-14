@@ -1,0 +1,21 @@
+
+# Global Burden Disease
+
+Anlysis over data about global mortality grouped by country, age group, sex and decade over 1970 and 2010.
+
+Source: Tableau Free Public Datasets
+
+# Goal
+
+Improve the reality sense. Know which countries have the biggest vulnerability to diseases over data time period.
+
+# Data
+
+The file has 58.905 rows and 7 columns (Country Code, Country Name, Year, Sex, Number of Deaths, Death Rate Per 100.000).
+
+- 187 countries (315 rows per country) 
+- 11.781 rows per decade (1970 to 2010)
+- 21 age groups: 0-6 days, 7-27 days, 28-364 days, and groups of 3 years since then)
+- 3 sexes: male, female, both. 'Both' summarizes male and female numbers
+
+# Main Results
