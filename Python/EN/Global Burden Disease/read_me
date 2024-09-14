@@ -18,7 +18,7 @@ The file has 58.905 rows and 7 columns (Country Code, Country Name, Year, Sex, N
 - 21 age groups: 0-6 days, 7-27 days, 28-364 days, and groups of 3 years since then)
 - 3 sexes: male, female, both. 'Both' summarizes male and female numbers
 
-The analyzis was made using Python (Pandas).
+The analysis was made using Python (Pandas).
 
 # Main Results
 PART 1: About database estructure
