@@ -42,7 +42,7 @@
 </ol>
 
 <h2>Future Work</h2>
-<p>Future improvements may include a deeper analysis of the factors influencing voter turnout and exploring additional demographic variables. Enhanced visualizations could also be developed to better communicate findings.</p>
+<p>Future improvements may include a deeper analysis of the factors influencing voter intention and exploring additional demographic variables. Enhanced visualizations could also be developed to better communicate findings.</p>
 
 </body>
 </html>
