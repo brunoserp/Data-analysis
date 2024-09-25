@@ -4,6 +4,9 @@
 
 <p>The analysis was made using Python (Pandas), trying to find behaviors I found interesting to share, mostly related to social factors. This analysis was proposed by Universidade de Dados, a group of data analysis environment.</p>
 
+<h2>Data Source</h2>
+<p>The data source is available on GitHub: <a href="https://github.com/fivethirtyeight/data/tree/master/non-voters">FiveThirtyEight Non-Voters Data</a></p>
+
 <h2>Analysis Index</h2>
 <ol>
     <li>Knowing the data structure</li>
@@ -22,9 +25,6 @@
         </ol>
     </li>
 </ol>
-
-<h2>Data Source</h2>
-<p>The data source is available on GitHub: <a href="https://github.com/fivethirtyeight/data/tree/master/non-voters">FiveThirtyEight Non-Voters Data</a></p>
 
 <h2>Conclusions</h2>
 <ul>
