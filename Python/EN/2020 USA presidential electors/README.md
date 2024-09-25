@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<h1>Voter Turnout Analysis in the 2020 U.S. Presidential Election</h1>
+<h1>Voter Intention Analysis in the 2020 U.S. Presidential Election</h1>
 
 <p>During the 2020 U.S. presidential election, voter turnout became a major point of discussion. Many Americans chose not to vote, citing logistical barriers, a lack of trust in the electoral system, and dissatisfaction with the candidates. However, some voters were more motivated than ever, feeling that the stakes were personal or that they needed to avoid potential regret. Various demographic groups, such as younger voters and those from lower-income backgrounds, faced more significant obstacles to voting. <a href="https://projects.fivethirtyeight.com/non-voters-poll-2020-election">Text link</a></p>
 
 <p>The analysis was made using Python (Pandas) and aimed to uncover interesting behaviors related to social factors. This analysis was proposed by Universidade de Dados, a group focused on data analysis.</p>
 
 <h2>Data Source</h2>
-<p>The data for this analysis was sourced from the FiveThirtyEight GitHub repository: <a href="https://github.com/fivethirtyeight/data/tree/master/non-voters">Non-Voters Dataset</a>.</p>
+<p>The data for this analysis was sourced from the FiveThirtyEight GitHub repository: <a href="https://github.com/fivethirtyeight/data/tree/master/non-voters">Dataset</a>.</p>
 
 <h2>Key Findings</h2>
 <ul>
