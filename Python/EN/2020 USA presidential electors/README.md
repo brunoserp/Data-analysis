@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Voter Turnout Analysis in the 2020 U.S. Presidential Election</title>
-</head>
-<body>
-
 <h1>Voter Turnout Analysis in the 2020 U.S. Presidential Election</h1>
 
 <p>During the 2020 U.S. presidential election, voter turnout became a major point of discussion. Many Americans chose not to vote, citing logistical barriers, a lack of trust in the electoral system, and dissatisfaction with the candidates. However, some voters were more motivated than ever, feeling that the stakes were personal or that they needed to avoid potential regret. Various demographic groups, such as younger voters and those from lower-income backgrounds, faced more significant obstacles to voting. <a href="https://projects.fivethirtyeight.com/non-voters-poll-2020-election">Text link</a></p>
